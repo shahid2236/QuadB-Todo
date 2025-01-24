@@ -44,13 +44,13 @@ This is a feature-rich React-based To-Do application that combines task manageme
    ```
 3. Start the development server:  
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## API Key Setup
 To use the weather feature, create a `.env` file in the root directory and add your OpenWeatherMap API key:  
 ```
-REACT_APP_WEATHER_API_KEY=your_api_key_here
+REACT_APP_WEATHER_API_KEY='3293dfa4972ef2a8dcb3c6e10625098b'
 ```
 
 ## Future Enhancements
