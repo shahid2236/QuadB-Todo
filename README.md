@@ -5,7 +5,7 @@ This is a feature-rich React-based To-Do application that combines task manageme
 ## Key Features
 
 ### 1. **User Authentication**
-- Simple mock login/logout functionality with username/password.
+- Simple mock login/logout functionality with username as "admin" and password as "password".
 - Tasks are accessible only after user login.
 
 ### 2. **Task Management**
